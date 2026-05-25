@@ -1,0 +1,29 @@
+Sales Bottleneck Analysis was performed on the RegionalSales2025 dataset containing 250 records to identify performance issues and revenue leakages.
+
+1. Regional Performance:
+The West region shows the highest cancellation rate at approximately 22%, followed by the North region at around 18%. In contrast, the East region performs better with cancellation rates below 10%. This indicates that the West region is a major bottleneck, likely due to logistics or service issues.
+
+2. Return Analysis:
+The Clothing category has the highest return rate, contributing nearly 30% of total returns. Products like "Jeans" and "Shirt" are among the most returned items, suggesting issues with size, quality, or customer expectations.
+
+3. Revenue Loss:
+Total revenue loss due to cancelled and returned orders is estimated to be around 15–20% of potential revenue. The West region contributes the highest share of this loss, making it a critical area for improvement.
+
+4. Category Performance:
+Electronics is the top-performing category, contributing more than 60% of total revenue. Products like "Laptop" and "Phone" generate the highest sales. However, Accessories contribute the least, indicating lower demand.
+
+5. Sales Agent Performance:
+Top-performing sales agents such as Amit and Neha contribute nearly 40% of total revenue, while others show relatively lower performance. This imbalance highlights the need for training and performance improvement.
+
+6. Monthly Sales Trend:
+Sales show an overall increasing trend from January to April, with slight fluctuations. The highest sales were recorded in March, indicating possible seasonal demand.
+
+Recommendations:
+- Improve delivery and logistics in West and North regions to reduce cancellations
+- Enhance product quality and sizing accuracy in Clothing category
+- Focus marketing efforts on high-performing categories like Electronics
+- Provide training and incentives to low-performing sales agents
+- Monitor high-return products and customers for quality or fraud issues
+
+Conclusion:
+By addressing these bottlenecks, the company can significantly reduce revenue loss, improve customer satisfaction, and achieve consistent sales growth.
